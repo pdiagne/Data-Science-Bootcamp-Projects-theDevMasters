@@ -1,1 +1,1 @@
-# DevMasters Projects
+# Data Science Bootcamp Projects (DevMasters)
